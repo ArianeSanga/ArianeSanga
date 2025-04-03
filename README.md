@@ -4,10 +4,7 @@
 
 🌱  Graduanda em Sistemas para Internet no Instituto Federal de São Paulo (IFSP).
 
-
 💻 Apaixonada por desenvolvimento web e tecnologias emergentes
-
-
 
 ### 🛠️ Tecnologias que uso
 
@@ -26,6 +23,7 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Inteligei-00AEEF?style=for-the-badge&logo=data:image/svg+xml;base64,..." alt="Inteligei" />
 </div>
 
 ### 📊 GitHub Stats

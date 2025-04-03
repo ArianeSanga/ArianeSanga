@@ -1,4 +1,4 @@
-# Olá, sou o Ariane Sanga 👋
+# Olá, sou a Ariane Sanga 👋
 
 ## Sobre mim
 

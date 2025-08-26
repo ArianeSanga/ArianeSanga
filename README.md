@@ -4,7 +4,7 @@
 
 🌱  Graduanda em Sistemas para Internet no Instituto Federal de São Paulo (IFSP).
 
-💻 Apaixonada por desenvolvimento web e tecnologias emergentes
+
 
 ### 🛠️ Tecnologias que uso
 

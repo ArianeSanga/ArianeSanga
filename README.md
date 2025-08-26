@@ -2,11 +2,11 @@
 
 ## Sobre mim
 
-🌱  Graduanda em Sistemas para Internet no Instituto Federal de São Paulo (IFSP).
+Graduanda em Sistemas para Internet no Instituto Federal de São Paulo (IFSP).
 
 
 
-### 🛠️ Tecnologias que uso
+### Tecnologias que uso
 
 <div>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
 </div>
 
-### 🔧 Ferramentas que uso
+## Ferramentas que uso
 
 <div>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
@@ -25,11 +25,11 @@
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ" />
 </div>
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArianeSanga&show_icons=true&hide_title=true&count_private=true&theme=tokyonight)
 
-### 📫 Como me encontrar
+###  Como me encontrar
 
 - [LinkedIn](https://www.linkedin.com/in/ariane-minguini-sanga-985a652b3/)
 - [Instagram](https://www.instagram.com/arianesanga/#)
